@@ -1,0 +1,21 @@
+.nav-item a {
+    color: black;
+}
+
+.nav-item a:hover {
+    color: orangered !important;
+}
+
+.active {
+    color: orangered !important;
+}
+
+.logo a {
+    color: black !important;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.logo span {
+    color: orangered;
+}
